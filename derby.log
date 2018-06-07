@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Feb 05 04:42:18 IST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0161-6317-7828-000006d4a390 
+on database directory C:\Users\sachi\Desktop\summerizer\Summarizer\Summarizer with class loader sun.misc.Launcher$AppClassLoader@4b1210ee 
+Loaded from file:/C:/Users/sachi/Desktop/summerizer/Summarizer/dist/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=C:\Users\sachi\Desktop\summerizer\Summarizer
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
